@@ -60,7 +60,7 @@ export default function App() {
         fontFamily: 'var(--font-body)',
       }}>
         <span style={{ fontFamily: 'var(--font-display)', fontWeight: 900, color: 'var(--text)', marginRight: '0.5rem' }}>
-          Cesar's Tops ✦
+          Cesar Vargas ✦ UMID: cavargas
         </span>
         
       </footer>
